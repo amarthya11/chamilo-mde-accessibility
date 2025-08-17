@@ -20,6 +20,9 @@ class TranslationService {
 
     private static function loadTranslations(string $lang): array {
         $allTranslations = [
+            
+
+
             'en' => [
                 'label.submit' => 'Submit',
                 'label.username' => 'Username',
